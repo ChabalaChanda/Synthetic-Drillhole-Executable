@@ -1,5 +1,5 @@
 # Synthetic-Drillhole-Executable
-Create collars, surveys, assays files and run automated import and creation of pseudo holes into StudioRM geological software.
+Create collars, surveys and assays files and run automated import and creation of pseudo holes into StudioRM geological software.
 
 ![synthetic-gui_2](https://github.com/user-attachments/assets/e33f6a89-bf32-4997-8aa9-26a3182eab80)
 
