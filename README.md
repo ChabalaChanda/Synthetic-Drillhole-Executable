@@ -14,3 +14,5 @@ Create collars, surveys and assays files and run automated import and creation o
 ![Screenshot 2024-07-27 084858](https://github.com/user-attachments/assets/f0ef99bb-af53-4df6-bcd1-de6bf2588946)
 
 To download an executable and installable version of the app, please follow this link :  https://drive.google.com/file/d/1spDa4eFa5032Qj8GgtvkHMIIHOuA2vYQ/view?usp=sharing
+
+You can watch a demo on this link : https://youtu.be/Vl2_UvIHimE
