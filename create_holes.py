@@ -1,3 +1,4 @@
+
 from PyQt5.QtWidgets import QMainWindow, QApplication
 from PyQt5.uic import loadUi
 import sys
@@ -14,10 +15,10 @@ class MainUI(QMainWindow):
         loadUi("main_gui.ui",self)
 
         try:
-            mk = MakeFilesClass()
-            self.pushButton_createFiles.clicked.connect(lambda:mk.createFiles(self))
-            self.probability_horizontalSlider.valueChanged.connect(lambda:mk.myvalueChanged(self))
-            self.actionCreate_Holes_In_Datamine.triggered.connect(lambda:mk.createDMFiles(self))
+            makeFilesClass = MakeFilesClass()
+            self.pushButton_createFiles.clicked.connect(lambda:makeFilesClass.createFiles(self))
+            self.probability_horizontalSlider.valueChanged.connect(lambda:makeFilesClass.myvalueChanged(self))
+            self.actionCreate_Holes_In_Datamine.triggered.connect(lambda:makeFilesClass.createDMFiles(self))
         except:
             with open("error.txt", mode='w', newline='') as file:
                 file.write('something went wrong')
