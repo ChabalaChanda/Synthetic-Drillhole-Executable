@@ -1,7 +1,8 @@
 # Synthetic-Drillhole-Executable
 Create collars, surveys and assays files and run automated import and creation of pseudo holes into StudioRM geological software.
 
-![synthetic-gui_2](https://github.com/user-attachments/assets/e33f6a89-bf32-4997-8aa9-26a3182eab80)
+![synthetic-holes-dip-2](https://github.com/user-attachments/assets/735513eb-2f2d-4396-8637-fdc34d630dcb)
+
 
 1. Clone or download the source code
 2. Run the "create_holes.py" file
